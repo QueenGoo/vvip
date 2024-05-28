@@ -127,7 +127,7 @@ else
 red "Permission Denied!
 Please Buy AutoScript Premium
 WA: 082131861788
-Telegram: t.me/Andyyuda"
+Telegram: t.me/"
 rm setup.sh > /dev/null 2>&1
 sleep 10
 exit 0
